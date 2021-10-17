@@ -1,1 +1,2 @@
-# Capstone-Project-34
+# C-34-Capstone
+WhitehatJr C34 capstone project. 
